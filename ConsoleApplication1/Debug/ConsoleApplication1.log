@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\C++\Final Project\ConsoleApplication1\ConsoleApplication1.cpp(199,35): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Final Project\ConsoleApplication1\ConsoleApplication1.cpp(210,35): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Final Project\ConsoleApplication1\ConsoleApplication1.cpp(225,35): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> D:\C++\Final Project\ConsoleApplication1\Debug\ConsoleApplication1.exe
